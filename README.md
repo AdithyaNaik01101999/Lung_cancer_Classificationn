@@ -24,4 +24,3 @@ To develop an intelligent image classification system capable of distinguishing 
 
 ---
 
-Would you like me to generate the full `README.md` file with all sections (tech stack, results, setup, etc.) based on this overview?
